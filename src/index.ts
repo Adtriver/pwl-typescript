@@ -1,7 +1,7 @@
 function hello(nama: string): string {
     return `Welcome ${nama} di PWL`;
 }
-const mahasiswa: string = "Iqlima";
+const mahasiswa: string = "Hannibal";
 const umur: number = 20;
 
 console.log(hello(mahasiswa));
